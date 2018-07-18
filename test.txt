@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 My name is Alex.
 
 Alex is awesome.
 
 Alex,
 My name is Myra!!!
+=======
+My name is Alex.
+>>>>>>> parent of e12cb9e... merge conflict
